@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.5.30)  10 JUL 2019 12:52
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2019.5.30)  26 JUL 2019 16:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,49 +498,34 @@ Type  H <return>  for immediate help.
 l.26 \bibliographystyle
                        {elsarticle-num}
 ? 
-(./Manuscript.aux
-
-LaTeX Warning: Label `eq:1d' multiply defined.
-
-
-LaTeX Warning: Label `eq:urho' multiply defined.
-
-
-LaTeX Warning: Label `eq:Erho' multiply defined.
-
-
-LaTeX Warning: Label `eq:sxxrho' multiply defined.
-
-
-LaTeX Warning: Label `fig:case9' multiply defined.
-
-)
+(./Manuscript.aux)
 \openout1 = `Manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count144
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring OFF on input line 28.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package hyperref Info: Link coloring OFF on input line 30.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -548,41 +533,161 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count145
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
 (./Manuscript.out) (./Manuscript.out)
 \@outlinefile=\write4
 \openout4 = `Manuscript.out'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1476.
+LaTeX Font Info:    Try loading font information for U+msa on input line 52.
 
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 52.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 52.
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
 File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
 )
+
+Package natbib Warning: Citation `riemann1960fortpflanzung' on page 1 undefined
+ on input line 53.
+
+
+Package natbib Warning: Citation `toro2013riemann' on page 1 undefined on input
+ line 53.
+
+
+Package natbib Warning: Citation `godunov1959finite' on page 1 undefined on inp
+ut line 53.
+
+
+Package natbib Warning: Citation `jiequan2009two' on page 1 undefined on input 
+line 54.
+
+
+Package natbib Warning: Citation `gel1959some' on page 1 undefined on input lin
+e 54.
+
+
+Package natbib Warning: Citation `giacomazzo2006exact' on page 1 undefined on i
+nput line 56.
+
+
+Package natbib Warning: Citation `gao2018complete' on page 1 undefined on input
+ line 56.
+
+! Argument of \@citex has an extra }.
+<inserted text> 
+                \par 
+l.58 ..., double-rarefaction Riemann solver \cite}
+                                                  , double-shock Riemann sol...
+
+? 
+Runaway argument?
+! Paragraph ended before \@citex was complete.
+<to be read again> 
+                   \par 
+l.58 ..., double-rarefaction Riemann solver \cite}
+                                                  , double-shock Riemann sol...
+
+? 
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.58 ..., double-rarefaction Riemann solver \cite}
+                                                  , double-shock Riemann sol...
+
+? 
+
+Package natbib Warning: Citation `dukowicz1985general' on page 1 undefined on i
+nput line 58.
+
+
+Package natbib Warning: Citation `pike1993riemann' on page 1 undefined on input
+ line 58.
+
+
+Package natbib Warning: Citation `einfeldt1988godunov' on page 1 undefined on i
+nput line 58.
+
 [1
 
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1476.
+] [2]
+
+Package natbib Warning: Citation `toro2013riemann' on page 3 undefined on input
+ line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\begingroup' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\<let>-command' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\NAT@ctype' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\let' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\new@ifnextchar' on input line 75.
+
+! Undefined control sequence.
+<recently read> \rhoA 
+                      
+l.93 where $\rhoA
+                 $ is density, $p$ is pressure, $u$ is particle velocity and...
+
+? 
+[3]
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (./Manuscript.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1476.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1476.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 164.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
+ )
+(\end occurred inside a group at level 1)
 
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1476.
- ) 
+### semi simple group (level 1) entered at line 58 (\begingroup)
+### bottom level 
 Here is how much of TeX's memory you used:
- 12715 strings out of 493638
- 177973 string characters out of 6146796
- 253325 words of memory out of 5000000
- 16005 multiletter control sequences out of 15000+600000
- 5639 words of font info for 20 fonts, out of 8000000 for 9000
+ 12697 strings out of 493638
+ 178014 string characters out of 6146796
+ 254908 words of memory out of 5000000
+ 15958 multiletter control sequences out of 15000+600000
+ 10936 words of font info for 41 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 36i,5n,38p,1334b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,17n,45p,936b,396s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Manuscript.pdf (1 page).
+Output written on Manuscript.pdf (4 pages).
