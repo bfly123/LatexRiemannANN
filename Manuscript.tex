@@ -151,7 +151,29 @@ The Riemann problem for the one-dimensional, time dependent Euler equations (\re
 \end{aligned}\right.
 \end{equation}
 
-The structures of the similarity solution $U(x/t)$ 
+The structure of the exact solution of the Riemann problem has three waves, associated with the eigenvalues $\lambda_1 = u-a,\lambda_2 = u$ and $\lambda_3 = u+a$. The three waves separate four constant states, shown in Fig., from left to right the values on the states are: $\mathbf{U}_L$, $\mathbf{U})L^*$, $\mathbf{U}_R^*$ and $\mathbf{U}_R$. Where $\mathbf{U}_L^*$ and $\mathbf{U}_R^*$ are unknown.
+
+According to the analysis in Ref.\cite{toro2013riemann}, the middle wave is always a contact wave while the left and right waves are either shock or rarefaction waves. Therefore there can be four possible wave patterns which are shown in Fig. 
+
+\subsubsection{Equations for pressure and particle velocity}
+According to the relation of the contact wave, the pressure and velocity of $\mathbf{U}_L^*$ and $\mathbf{U}_R^*$ are equal. We can establish an equation for pressure $p^*$ as 
+\begin{equation}
+  f(p,\mathbf{U}_L,\mathbf{U}_R) = f_L(p,\mathbf{U}_L) + f_R(p,\mathbf{U}_R) + \Delta u = 0, \Detla u = u_R -u_L,
+\end{equation}
+where the functions $f_L$ and $f_R$ are given by
+\begin{equation}
+  f_L(p,\mathbf{U}_L) = \left\{ \begin{aligned} 
+	  (p-p_L)\left[ \frac{A_L}{p+B_L}\right]^2 \quad \text{if} p>p_L (\text{shock}),\\ 
+	  \frac{2a_L}{(\gamma -1)}\left[ \left(\frac{p}{p_L}\right)^{\frac{\gamma -1}{2\gamma}} - 1\right] \quad \text{if} p\le p_L \quad (\text{rarefaction}),
+  \end{aligned} \right.
+\end{equation}
+and
+\begin{equation}
+  f_R(p,\mathbf{U}_R) = \left\{ \begin{aligned} 
+	 & (p-p_R)\left[ \frac{A_R}{p+B_R}\right]^2 \quad  & \text{if}\quad   p>p_R (\text{shock}),\\ 
+	 &  \frac{2a_R}{(\gamma -1)}\left[ \left(\frac{p}{p_R}\right)^{\frac{\gamma -1}{2\gamma}} - 1\right] \quad  & \text{if} \quad p\le p_R \quad (\text{rarefaction}),
+  \end{aligned} \right.
+\end{equation}
 
 
 
